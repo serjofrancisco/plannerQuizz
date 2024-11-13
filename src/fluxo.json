@@ -1,0 +1,24 @@
+{
+    "Você tem empresa?": {
+        "Sim": {
+            "Precisa também gerenciar conteúdo?": {
+                "Sim": {
+                    "Pensa em Fazer lançamentos de produtos/serviços para ter picos de faturamento?":{
+                        "Sim": "Combo de planners e Planner de Lançamento",
+                        "Não": "Combo de planners"
+                    }             
+                },
+                "Não": "Produtiva & Lucrativa"
+            } 
+         },
+        "Não": {
+            "Quais áreas da vida você quer organizar?": {
+                "Finanças": "Planner Financeiro",
+                "Tarefas": "Gerenciador de Tarefas",
+                "Todas as áreas, incluindo tarefas e finanças": "Planner Pessoal",
+                "Conteúdo": "Planner de Conteúdo"
+            }
+        }
+    }
+}
+
